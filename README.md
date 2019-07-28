@@ -1,4 +1,4 @@
-# The-Batman-Archive
+# :bat:The-Batman-Archive 
 a collection of problems that scare me and thus, need to solved.
 
 > inspired by the quote in [Batman Begins]
